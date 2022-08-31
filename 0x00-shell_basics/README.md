@@ -1,1 +1,1 @@
-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
+firstdelete deletes the file betty
