@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files
